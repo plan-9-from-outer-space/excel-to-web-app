@@ -5,7 +5,6 @@ from PIL import Image
 
 st.set_page_config(page_title='Survey Results')
 st.header(':robot_face: Survey Results 2021')
-st.subheader('Was the tutorial helpful?')
 
 ### --- LOAD DATAFRAME
 excel_file = 'Survey_Results.xlsx'
